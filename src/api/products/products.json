@@ -1,0 +1,52 @@
+[
+  {
+    "productId": 1,
+    "productName": "Care Cloud",
+    "productCode": "TZ-0011",
+    "releaseDate": "Feb 10, 2018",
+    "description": "Healthcare Cloud based Software",
+    "price":550,
+    "starRating": 4.5,
+    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/309936/1541887619.png"
+  },
+  {
+    "productId": 2,
+    "productName": "Hospital Management",
+    "productCode": "TZ-0023",
+    "releaseDate": "Feb 17, 2017",
+    "description": "Software to manage Hospital data",
+    "price": 650,
+    "starRating": 4.7,
+    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/265320/hospital-2.png"
+  },
+  {
+    "productId": 3,
+    "productName": "Health.Ai",
+    "productCode": "TZ-0022",
+    "releaseDate": "Feb 26, 2018",
+    "description": "Software uses AI to intelligently guess the solutions",
+    "price": 999,
+    "starRating": 4.3,
+    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/253585/my_robot.png"
+  },
+  {
+    "productId": 4,
+    "productName": "EDoctor",
+    "productCode": "TZ-0042",
+    "releaseDate": "March 01, 2018",
+    "description": "Software for family to keep track of policies",
+    "price": 35.95,
+    "starRating": 4.6,
+    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/280386/1495911998.png"
+  },
+  {
+    "productId": 5,
+    "productName": "eClinical System",
+    "productCode": "TZ-0048",
+    "releaseDate": "Jan 21, 2019",
+    "description": "Software to help doctors to keep track of records daily",
+    "price": 100,
+    "starRating": 4,
+    "imageUrl": "https://openclipart.org/image/200px/svg_to_png/262568/Doctor-Holding-Clipboard-fixed-arm.png"
+  }
+]
